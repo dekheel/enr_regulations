@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "105470290830",
+    "project_id": "enrregulations",
+    "storage_bucket": "enrregulations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105470290830:android:34449189a0df7eb1d9d2df",
+        "android_client_info": {
+          "package_name": "com.aliDekheel.enrRegulations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105470290830-2h5o1uln0ncr68jjrmls2fkiah6fqhrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_4zBDMdFOoL76W5dEyU3BF5yNVdvonWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105470290830-2h5o1uln0ncr68jjrmls2fkiah6fqhrp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105470290830-o6mo4bq8r25sk4kbfakdu1ard81jakhu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aliDekheel.enrRegulations"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
